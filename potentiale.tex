@@ -105,26 +105,26 @@ Um zu entschieden, ob ein Vektorfeld ein Gradientenfeld ist, kann man manchmal a
 \end{satz}
 
 Für ein Gradientenfeld \(\vec{F} = \begin{pmatrix}
-    V_1 \\ V_2
+    F_1 \\ F_2
 \end{pmatrix} = \vec{\nabla} \Phi = \begin{pmatrix}
     \frac{\partial \Phi}{\partial x} \\ \frac{\partial \Phi}{\partial y}
 \end{pmatrix}\) gilt also:
-\[  \frac{\partial V_2}{\partial x}-\frac{\partial V_1}{\partial y} =  \frac{\partial^2 \Phi}{\partial x \partial y}-\frac{\partial^2 \Phi}{\partial y \partial x}  = 0\]
+\[  \frac{\partial F_2}{\partial x}-\frac{\partial F_1}{\partial y} =  \frac{\partial^2 \Phi}{\partial x \partial y}-\frac{\partial^2 \Phi}{\partial y \partial x}  = 0\]
 
 \begin{definition}
     {Rotation}{}
     Sei \(\vec{F} = \begin{pmatrix}
-        V_1 \\ V_2
+        F_1 \\ F_2
     \end{pmatrix}\) ein Vektorfeld. Dann nennt man den Ausdruck
-    \[\text{rot}(\vec{F}) = \frac{\partial V_2}{\partial x} - \frac{\partial V_1}{\partial y}\]
+    \[\text{rot}(\vec{F}) = \frac{\partial F_2}{\partial x} - \frac{\partial F_1}{\partial y}\]
     die Rotation von \(\vec{F}\).
 \end{definition}
 
 \begin{satz}
     {Notwendige Bedingung für ein Gradientenfeld}{}
-    \(V\) ist ein Gradientenfeld \(\implies \text{rot}(\vec{F}) = 0\)
+    \(F\) ist ein Gradientenfeld \(\implies \text{rot}(\vec{F}) = 0\)
 
-    Oder anders formuliert: \(\text{rot}(\vec{F}) \neq 0 \implies V\) ist kein Gradientenfeld.
+    Oder anders formuliert: \(\text{rot}(\vec{F}) \neq 0 \implies F\) ist kein Gradientenfeld.
 \end{satz}
 Bemerkung: Unter bestimmten Voraussetzungen (z.B. wenn der Definitionsbereich von \(\vec{F}\) einfach zusammenhängend ist) gilt auch die Umkehrung: \(\text{rot}(\vec{F}) = 0 \implies F\) ist ein Gradientenfeld.
 \clearpage
