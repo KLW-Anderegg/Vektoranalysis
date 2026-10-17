@@ -6,33 +6,33 @@ Die Materialien stehen zur freien Ansicht und zum Herunterladen zur Verfügung. 
 
 ## Materialien herunterladen
 
+Für das Herunterladen der Materialien ist weder ein GitHub-Konto noch die Installation von Git erforderlich.
+
 ### Einzelne Dateien herunterladen
 
-Wenn Sie beispielsweise ein PDF-Skript herunterladen möchten:
+Einzelne Dateien, beispielsweise PDF-Skripte, können wie folgt heruntergeladen werden:
 
-1. Öffnen Sie das gewünschte Repository.
-2. Klicken Sie in der Dateiliste auf die gewünschte PDF-Datei. Falls sich diese in einem Unterordner befindet, öffnen Sie zunächst den entsprechenden Ordner.
-3. Klicken Sie oben rechts auf das Download-Symbol (Pfeil nach unten). Je nach Ansicht finden Sie die Option auch im Menü mit den drei Punkten.
-4. Die Datei wird auf Ihrem Computer gespeichert.
+1. Das gewünschte Repository öffnen.
+2. In der Dateiliste die gewünschte PDF-Datei auswählen. Falls sich diese in einem Unterordner befindet, zunächst den entsprechenden Ordner öffnen.
+3. Auf das Download-Symbol (Pfeil nach unten) klicken. Je nach Ansicht befindet sich die Download-Option im Menü mit den drei Punkten.
+4. Die Datei wird auf dem Computer gespeichert.
 
 ### Gesamtes Repository herunterladen
 
-Wenn Sie alle Materialien auf einmal herunterladen möchten:
+Das gesamte Repository kann als ZIP-Datei heruntergeladen werden:
 
-1. Öffnen Sie das gewünschte Repository.
-2. Klicken Sie auf die grüne Schaltfläche **Code** oberhalb der Dateiliste.
-3. Wählen Sie **Download ZIP**.
-4. Entpacken Sie die heruntergeladene ZIP-Datei auf Ihrem Computer.
+1. Das gewünschte Repository öffnen.
+2. Oberhalb der Dateiliste auf die grüne Schaltfläche **Code** klicken.
+3. Die Option **Download ZIP** auswählen.
+4. Die heruntergeladene ZIP-Datei auf dem Computer entpacken.
 
-Sie erhalten damit eine Kopie aller Dateien der aktuellen Version, einschliesslich der LaTeX-Quelldateien, sofern diese im Repository enthalten sind.
+Die ZIP-Datei enthält sämtliche Dateien der aktuellen Version, einschliesslich der LaTeX-Quelldateien, sofern diese im Repository vorhanden sind.
 
-**Hinweis:** Für das Herunterladen ist weder eine Registrierung bei GitHub noch die Installation von Git notwendig.
+### Aktualisierungen
 
-## Aktualisierungen
+Die Materialien werden laufend überarbeitet und ergänzt. Auf GitHub steht jeweils die aktuelle Version zur Verfügung.
 
-Die Materialien werden bei Bedarf überarbeitet und ergänzt. Auf GitHub steht jeweils die aktuelle Version zur Verfügung.
-
-Bereits heruntergeladene Dateien werden nicht automatisch aktualisiert. Um eine neuere Version zu erhalten, laden Sie die entsprechenden Dateien erneut herunter.
+Bereits heruntergeladene Dateien werden nicht automatisch aktualisiert. Für eine neuere Version ist ein erneuter Download erforderlich.
 
 ## Fehler und Verbesserungsvorschläge
 
